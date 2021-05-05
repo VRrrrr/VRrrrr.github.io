@@ -473,6 +473,9 @@ table.greenTable tfoot .links a{
   color: #FFFFFF;
   padding: 2px 8px;
   border-radius: 5px;
+  pointer-events: none;
+  cursor: default;
+  opacity: 0.6;
 }
 
 /*---------------------------------------
